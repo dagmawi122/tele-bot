@@ -266,6 +266,5 @@ For deep-dive architectural specifications, ER diagrams, and design details, ref
 
 - 📄 [Documentation.md](Docs/Documentation.md) — Comprehensive technical specification containing ER diagrams, API payload schemas, Telegram `initData` HMAC validation algorithms, and state machines.
 - 🔌 [Connecting Together.md](Docs/Connecting%20Together.md) — End-to-end integration guide between Telegram Bot, Frontend Mini App, and FastAPI backend APIs.
-- 🎯 [sprint_1_doc.md](Docs/sprint_1_doc.md) — Sprint 1 operational plan, team developer allocations, and acceptance criteria.
 - 🏗️ [telegram_marketplace_system_design.md](Docs/telegram_marketplace_system_design.md) — System design architecture blueprint.
 
